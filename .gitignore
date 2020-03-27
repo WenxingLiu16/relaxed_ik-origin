@@ -155,3 +155,6 @@ src/RelaxedIK/Config/collision_nn_rust/*
 
 #rust related
 src/RelaxedIK_Rust/target
+
+# Robot-dependent/Test-dependent files
+*.rviz
