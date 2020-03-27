@@ -137,6 +137,15 @@ starting_config = [0.33334833, -1.594620529, 2.176250, -0.55701047, 2.0937423, 3
 ######################################################################################################
 
 
+######################################################################################################
+# Step 3e (Optional): Please provide the topic name of the robot's joint information
+#   This info will be used in Step 6, so that (roslaunch relaxed_ik load_info_file.launch) can access 
+#   to the current configuration. This, you can ignore "starting_config" in Step 3d. 
+#   ex: joint_state_topic = '/joint_states'
+joint_state_topic = '/joint_states'
+######################################################################################################
+
+
 
 
 ######################################################################################################
