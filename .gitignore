@@ -111,3 +111,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Robot-dependent/Test-dependent files
+loaded_robot
+*.rviz
