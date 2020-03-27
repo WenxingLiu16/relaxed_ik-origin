@@ -113,5 +113,4 @@ venv.bak/
 .mypy_cache/
 
 # Robot-dependent/Test-dependent files
-src/RelaxedIK/Config/loaded_robot.*
 *.rviz
